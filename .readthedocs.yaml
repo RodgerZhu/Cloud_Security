@@ -1,4 +1,4 @@
 version: 2
 python:
     install:
-        - requirements: Docs/requirements.txt
+        - requirements: Docs/readdoc/requirements.txt
