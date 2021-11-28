@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Cloud Security'
+copyright = '2021, RodgerZhu'
+author = 'RodgerZhu'
 
 release = '0.1'
 version = '0.1.0'
