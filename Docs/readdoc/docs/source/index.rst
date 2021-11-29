@@ -14,6 +14,18 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
+   :caption: TEE LibOS
+
+   TEELibOS.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Intel TEE
+
+   IntelTEE.rst
+
+.. toctree::
    Quick Start
    Intel TEE
    TEE LibOS
