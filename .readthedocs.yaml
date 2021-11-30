@@ -1,4 +1,10 @@
 version: 2
+
+sphinx:
+  configuration: Docs/readdoc/docs/source/conf.py
+
 python:
-    install:
-        - requirements: Docs/readdoc/requirements.txt
+  install:
+    - method: pip
+      path: .
+    - requirements: Docs/readdoc/requirements.txt
