@@ -26,10 +26,7 @@ Contents
    IntelTEE.rst
 
 .. toctree::
-   Quick Start
-   Intel TEE
-   TEE LibOS
-   AI Framework
-   Solution Development
+   TEELibOS
+   IntelTEE
    usage
    api
