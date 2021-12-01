@@ -23,13 +23,21 @@ Contents
    :maxdepth: 1
    :caption: Intel TEEs
 
-   inteltee
+   TEE/SGX/intelsgx
+   TEE/TDX/inteltdx
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Intel HE
+
+   HE/pailliar
 
 .. toctree::
    :maxdepth: 1
    :caption: TEE LibOSs
 
-   teelibos
+   LibOS/Gramine/Gramine
+   LibOS/Occlum/Occlum
 
 .. toctree::
    :maxdepth: 1
