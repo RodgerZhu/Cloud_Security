@@ -1,6 +1,3 @@
-Deployment
-==========
-
 Description
 -----------
 

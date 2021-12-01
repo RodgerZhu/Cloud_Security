@@ -1,6 +1,3 @@
-TEE LibOS
-==========
-
 Description
 -----------
 

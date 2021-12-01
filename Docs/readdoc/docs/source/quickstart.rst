@@ -1,6 +1,3 @@
-Quick Start
-==========
-
 Description
 -----------
 

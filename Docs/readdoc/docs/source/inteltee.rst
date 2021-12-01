@@ -1,5 +1,3 @@
-IntelTEE
-=====
 
 Description
 -----------
