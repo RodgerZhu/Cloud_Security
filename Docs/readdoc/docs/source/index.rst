@@ -51,3 +51,10 @@ Contents
 
    deployment
 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Tools
+
+   Tools/tools
+
