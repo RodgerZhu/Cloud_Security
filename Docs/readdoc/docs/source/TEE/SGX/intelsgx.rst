@@ -1,6 +1,5 @@
-
-Description
------------
+SGX
+===
 
 Attestation
 -----------
