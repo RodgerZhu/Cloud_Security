@@ -14,7 +14,7 @@ Contents
 --------
 
 .. toctree::
-   TEELibOS
-   IntelTEE
-   usage
+   teelios
+   inteltee
    api
+   usage
