@@ -14,7 +14,26 @@ Contents
 --------
 
 .. toctree::
-   teelibos
+   :maxdepth: 1
+   :caption: Quick Start
+
+   quickstart
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Intel TEEs
+
    inteltee
-   api
-   usage
+
+.. toctree::
+   :maxdepth: 1
+   :caption: TEE LibOSs
+
+   teelibos
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Solution Deployment
+
+   deployment
+
