@@ -34,6 +34,12 @@ Contents
 
 .. toctree::
    :maxdepth: 1
+   :caption: Intel HE
+
+   intelhe
+
+.. toctree::
+   :maxdepth: 1
    :caption: TEE LibOSs
 
    LibOS/Gramine/Gramine
