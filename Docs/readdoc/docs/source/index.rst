@@ -38,6 +38,15 @@ Contents
 
    intelhe
 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Apps User Guide
+
+   APP/tensorflow.md
+   APP/spark.md
+   APP/flink.md
+
 .. toctree::
    :maxdepth: 1
    :caption: TEE LibOSs
