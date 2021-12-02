@@ -58,7 +58,9 @@ Contents
    :maxdepth: 1
    :caption: Solution Deployment
 
-   deployment
+   Solutions/solution1.md
+   Solutions/solution2.md
+   Solutions/solution3.md
 
 
 .. toctree::
