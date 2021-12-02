@@ -1,78 +1,14 @@
 Welcome to CloudSecurity's documentation!
 ===================================
 
-**Cloud Security Page**
+**Cloud Security Documentation**
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
 
 .. toctree::
    :maxdepth: 1
-   :caption: Quick Start
-
-   quickstart
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Intel TEEs
-
-   TEE/SGX/intelsgx
-   TEE/TDX/inteltdx
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Intel HE
-
-   HE/pailliar
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Intel HE
-
-   intelhe
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Apps User Guide
-
-   APP/tensorflow.md
-   APP/spark.md
-   APP/flink.md
-
-.. toctree::
-   :maxdepth: 1
-   :caption: TEE LibOSs
-
-   LibOS/Gramine/Gramine
-   LibOS/Occlum/Occlum
-
-.. toctree::
-   :maxdepth: 1
    :caption: Solution Deployment
 
    Solutions/solution1.md
-   Solutions/solution2.md
-   Solutions/solution3.md
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Tools
-
-   Tools/tools
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Usefull Links
-
-   usefulllink.md
-
-
