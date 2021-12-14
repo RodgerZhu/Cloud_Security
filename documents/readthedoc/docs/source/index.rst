@@ -24,10 +24,12 @@ solutions based on Intel technologies below.
 
 CCZoo is not limited to provide various reference implementation based on Intel® TEE technology,
 but also provide the solution driven, easy adoption, scalable best pactices to help users in:
+
 - Having an overall understaning of an End-to-End solution based on Intel® TEE.
 - Quick adoption or reference under similar senarios in CCZoo with security design based on Intel® TEE.
 
 CCZoo provides confidential computing best practices with below features:
+
 - Whole Flow Data Security
   - Runtime Security
   - In-Transit Security
