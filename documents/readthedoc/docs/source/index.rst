@@ -1,8 +1,5 @@
-Welcome to CloudSecurity's documentation!
-===================================
-
- Confidential Computing Zoo
---------------------------
+Welcome to Confidential Computing Zoo's documentation!
+======================================================
 
 Confidential Computing Zoo (CCZoo) is an open source to provide confidential computiong
 solutions based on Intel technologies below.
