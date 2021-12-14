@@ -11,4 +11,4 @@ Contents
    :maxdepth: 1
    :caption: Solution Deployment
 
-   Solutions/solution1.md
+   Solutions/tensorflow-serving-cluster/index.rst
