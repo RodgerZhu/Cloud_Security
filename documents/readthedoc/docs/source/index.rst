@@ -31,14 +31,21 @@ but also provide the solution driven, easy adoption, scalable best pactices to h
 CCZoo provides confidential computing best practices with below features:
 
 - Whole Flow Data Security
+
   - Runtime Security
   - In-Transit Security
   - At-Rest Security
+
 - Application Integrity
+
   - Remote Attestation
+
 - Full Coverage Data Security
+
   - Input query, output score, model
+
 - Elasticity(Optional)
+
   - Kubernets
 
 To let users reproduce the solutions easily with mninal porting effoert, CCZoo adopts LibOS
