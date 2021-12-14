@@ -3,6 +3,7 @@ Welcome to Confidential Computing Zoo's documentation!
 
 Confidential Computing Zoo (CCZoo) is an open source to provide confidential computiong
 solutions based on Intel technologies below.
+
 - Intel® Trusted Execution Environment (TEE) technology
   - Intel® Software Guard Extensions (Intel® SGX).
     Intel® SGX 1/2 offers hardware-based memory encryption that isolates specific
