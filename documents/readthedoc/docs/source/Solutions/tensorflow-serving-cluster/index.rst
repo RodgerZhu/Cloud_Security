@@ -2,7 +2,7 @@
 TensorFlow Serving Cluster PPML Solution
 ========================================
 
-This tutorial presents a framework for developing a PPML (Privacy-Preserving
+This solution presents a framework for developing a PPML (Privacy-Preserving
 Machine Learning) solution - `TensorFlow Serving <https://www.tensorflow.org/tfx/guide/serving>`__
 cluster with Intel SGX and Gramine.
 
@@ -24,7 +24,7 @@ details.
    :scale: 80 %
    :alt: Figure: Nginx Ingress controller
 
-In this tutorial, we focus on:
+In this solution, we focus on:
 
 - AI Service - TensorFlow Serving, a flexible, high-performance serving system
   for machine learning models.
@@ -41,7 +41,7 @@ In this tutorial, we focus on:
   providers can setup the environment easily. We use Nginx for automatic load
   balancing.
 
-The goal of this tutorial is to show how these applications - TensorFlow Serving
+The goal of this solution is to show how these applications - TensorFlow Serving
 and Kubernetes - can run in an untrusted environment (like a public cloud),
 automating deployment while still ensuring the confidentiality and integrity of
 sensitive input data and the model. To this end, we use Intel SGX enclaves to
@@ -102,7 +102,7 @@ the client through gRPC TLS **⑫**.
 Prerequisites
 -------------
 
-- Ubuntu 18.04. This tutorial should work on other Linux distributions as well,
+- Ubuntu 18.04. This solution should work on other Linux distributions as well,
   but for simplicity we provide the steps for Ubuntu 18.04 only.
 
   Please install the following dependencies::
@@ -356,7 +356,7 @@ For more syntax used in the manifest template, please refer to `Gramine Manifest
 2.3 Config the Domain name
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 As we use ``attestation.service.com`` as the Domain name, it should be given the
-right IP address of client machine.
+right IP address of client machine::
 
    echo "client_ip attestation.service.com" >> /etc/hosts 
 
@@ -390,7 +390,7 @@ Under the remote request machine, please download source package::
 3.1 Preparation
 ^^^^^^^^^^^^^^^
 To guarantee the secure communication channel from remote request client to TensorFlow
-Serving service, we need to copy ``ssl_configure/server.crt`` to this machine.
+Serving service, we need to copy ``ssl_configure/server.crt`` to this machine::
 
    cd <tensorflow_serving dir>/client
    scp -r client@client_ip:<tensorflow_serving dir>/client/ssl_configure.tar .
