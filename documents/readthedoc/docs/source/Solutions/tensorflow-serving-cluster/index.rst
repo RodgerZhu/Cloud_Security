@@ -21,7 +21,7 @@ details.
 
 .. image:: ./img/NGINX-Ingress-Controller.svg
    :target: ./img/NGINX-Ingress-Controller.svg
-   :scale: 50 %
+   :scale: 80 %
    :alt: Figure: Nginx Ingress controller
 
 In this tutorial, we focus on:
