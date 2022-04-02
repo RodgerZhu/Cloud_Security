@@ -5,6 +5,12 @@ be validated in public clouds to verify the versatility, stability, robustness.
 We will provide detailed configurations of each public clouds for reference, and
 notes of the diversity in each cloud for easy deployment.
 
+We now have validated our solutions in Alibaba Cloud, Tencent Cloud and Azure Cloud.
+There will be more solutions be validated in more public cloud environments in the
+future.
+
+---
+
 ## Alibaba Cloud
 
 [Aliyun ECS](https://help.aliyun.com/product/25365.html) (Elastic Compute Service)
@@ -145,6 +151,8 @@ The configuration of the M6ce instance we used is as blow:
     </tr>
   </tbody>
 </table>
+
+---
 
 ## Azure Cloud
 
