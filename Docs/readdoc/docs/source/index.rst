@@ -18,3 +18,4 @@ Contents
    inteltee
    api
    usage
+   cloud.md
