@@ -156,7 +156,6 @@ The configuration of the M6ce instance we used is as blow:
         <br />
         <br />
         <br />
-        <br />
         <strong>Validated Solution&nbsp;</strong>
       </td>
       <td>
@@ -235,7 +234,6 @@ The configuration of the DCsv3 instance we used is as blow:
     <tr>
       <td colspan="2">
         <p>
-          <br />
           <br />
           <br />
           <strong>Validated Solution&nbsp;</strong>
