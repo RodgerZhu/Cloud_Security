@@ -30,7 +30,11 @@ The configuration of the ECS instance we used is as blow:
       </td>
     </tr>
     <tr>
-      <td rowspan="6" style="text-align: left;"><strong>Instance&nbsp;</strong>
+      <td rowspan="6" style="text-align: left;">
+        <p>&nbsp;
+        </p>
+        <p><strong>Instance&nbsp;</strong>
+        </p>
       </td>
       <td style="text-align: left;">Type
       </td>
@@ -68,7 +72,12 @@ The configuration of the ECS instance we used is as blow:
       </td>
     </tr>
     <tr>
-      <td colspan="2"><strong>&nbsp;Validated Solution</strong>
+      <td colspan="2"><strong>&nbsp;
+        <br />
+        <br />
+        <br />
+        <br />
+        Validated Solution</strong>
       </td>
       <td>
         <ul>
@@ -81,6 +90,7 @@ The configuration of the ECS instance we used is as blow:
     </tr>
   </tbody>
 </table>
+
 
 ---
 
@@ -100,7 +110,11 @@ The configuration of the M6ce instance we used is as blow:
       </td>
     </tr>
     <tr>
-      <td rowspan="6" style="text-align: left;"><strong>Instance&nbsp;</strong>
+      <td rowspan="6" style="text-align: left;">
+        <p>&nbsp;
+        </p>
+        <p><strong>Instance&nbsp;</strong>
+        </p>
       </td>
       <td style="text-align: left;">Type
       </td>
@@ -138,7 +152,12 @@ The configuration of the M6ce instance we used is as blow:
       </td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Validated Solution&nbsp;</strong>
+      <td colspan="2">
+        <br />
+        <br />
+        <br />
+        <br />
+        <strong>Validated Solution&nbsp;</strong>
       </td>
       <td>
         <ul>
@@ -151,6 +170,7 @@ The configuration of the M6ce instance we used is as blow:
     </tr>
   </tbody>
 </table>
+
 
 ---
 
