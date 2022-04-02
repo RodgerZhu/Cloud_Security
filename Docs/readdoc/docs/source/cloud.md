@@ -171,7 +171,15 @@ The configuration of the DCsv3 instance we used is as blow:
       </td>
     </tr>
     <tr>
-      <td rowspan="6" style="text-align: left;"><strong>Instance&nbsp;</strong>
+      <td rowspan="6">
+        <p>&nbsp;
+        </p>
+        <p>&nbsp;
+        </p>
+        <p>&nbsp;
+        </p>
+        <p><strong>Instance&nbsp;</strong>
+        </p>
       </td>
       <td style="text-align: left;">Type
       </td>
@@ -209,7 +217,7 @@ The configuration of the DCsv3 instance we used is as blow:
       </td>
     </tr>
     <tr>
-      <td colspan="2"><strong>&nbsp; &nbsp; Validated Solution&nbsp;</strong>
+      <td colspan="2"><strong>Validated Solution&nbsp;</strong>
       </td>
       <td>
         <ul>
@@ -224,6 +232,7 @@ The configuration of the DCsv3 instance we used is as blow:
     </tr>
   </tbody>
 </table>
+
 
 
 
