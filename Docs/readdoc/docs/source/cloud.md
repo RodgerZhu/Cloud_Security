@@ -214,7 +214,9 @@ The configuration of the DCsv3 instance we used is as blow:
     </tr>
     <tr>
       <td colspan="2">
-        <p><strong>Validated Solution&nbsp;</strong>
+        <p>
+          <br />
+          <strong>Validated Solution&nbsp;</strong>
         </p>
       </td>
       <td>
