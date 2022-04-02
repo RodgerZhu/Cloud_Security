@@ -31,7 +31,7 @@
     <tr>
       <td style="text-align: left;">Memory
       </td>
-      <td>64G(32G EPC memory)
+      <td>64G (32G EPC memory)
       </td>
     </tr>
     <tr>
@@ -47,11 +47,11 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2"><strong>&nbsp; &nbsp; &nbsp;Validated&nbsp; Solution&nbsp;</strong>
+      <td colspan="2"><strong>&nbsp;Validated Solution</strong>
       </td>
       <td>
         <ul>
-          <li><a href="https://cczoo.readthedocs.io/en/latest/Solutions/tensorflow-serving-cluster/index.html">TensorFlow Serving Cluster PPML&nbsp;</a></li>
+          <li><a href="https://cczoo.readthedocs.io/en/latest/Solutions/tensorflow-serving-cluster/index.html">TensorFlow Serving Cluster PPML&nbsp;</a>(<strong>*<a href="https://help.aliyun.com/document_detail/342755.html">Alibaba Best Practice</a>*</strong>)</li>
           <li><a href="https://cczoo.readthedocs.io/en/latest/Solutions/horizontal-federated-learning/hfl.html">Horizontal Federated Learning&nbsp;</a></li>
           <li><a href="https://cczoo.readthedocs.io/en/latest/Solutions/grpc-ra-tls/index.html">gRPC supporting Intel RA-TLS</a></li>
           <li>Secure logistic regression training base on TEE &amp; HE</li>
