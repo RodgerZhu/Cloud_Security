@@ -19,4 +19,4 @@ jobs:
         pwd
         ls
         cd ./tensorflow-serving-cluster//tensorflow-serving/docker/tf_serving
-        docker build -f gramine_tf_serving.dockerfile -tag tf_serving:$(date +%s)
+        docker build -f gramine_tf_serving.dockerfile . -t tf_serving:$(date +%s)
