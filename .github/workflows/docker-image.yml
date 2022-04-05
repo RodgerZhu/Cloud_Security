@@ -12,9 +12,18 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Build the Docker image
+    
+    - name: Build the TF Docker image
       run: |
         pwd
         ls
-        cd ./tensorflow-serving-cluster//tensorflow-serving/docker/tf_serving
+        cd ./tensorflow-serving-cluster/tensorflow-serving/docker/tf_serving
         docker build -f gramine_tf_serving.dockerfile . -t tf_serving:$(date +%s)
+        
+    - name: Build the SP Docker image
+      run: |
+        pwd
+        ls
+        cd ./tensorflow-serving-cluster//tensorflow-serving/docker/secret_prov
+        docker build -f secret_prov.dockerfile . -t sp_serving:$(date +%s)
+        
